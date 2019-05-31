@@ -4,7 +4,7 @@ When we compile a SampleApp.java , java compiler generates Sample.class and Samp
 
 	While Running we use "java SampleApp".
 
-Here the java tool activates JAM in the RAM. Then the JVM does the following jobs.
+Here the java tool activates JVM in the RAM. Then the JVM does the following jobs.
 
 1. JVM loads SampleApp.class file into method Area of a RAM.
 
